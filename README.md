@@ -26,15 +26,16 @@ O objetivo primordial deste desafio é efetuar a criação de um diagrama UML (U
 1. **Diagramação UML**:
    - Identifiquei três interfaces principais: `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`.
    - Exemplo de Diagrama UML:
-   
-   ![DIAGRAMA-IPHONE](https://github.com/user-attachments/assets/938d20b0-01c4-4aba-8abc-d810fdaf6d89)
+
+   ![diagrama](https://github.com/user-attachments/assets/308261a7-e00d-4a69-82e7-5dc0ca566df6)
 
 
-2. **Implementação em Código Java**:
+
+3. **Implementação em Código Java**:
    - Utilizei a linguagem Java para implementar as classes e interfaces de acordo com a modelagem UML.
    - Criei a classe `IPhone` que implementa as três interfaces, proporcionando a funcionalidade necessária para cada papel.
 
-3. **Integração com o GitHub**:
+4. **Integração com o GitHub**:
    - Criei um repositório no GitHub para hospedar o projeto.
    - Utilizei comandos Git para fazer commits das alterações e criar um Pull Request para compartilhar as implementações.
 
